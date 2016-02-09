@@ -1,0 +1,52 @@
+body
+{
+	margin-left: 12px;
+	margin-right: 12px;
+	font-family: "Arial";
+	font-size: 20px;
+}
+
+a:link
+{
+	color: #42C0EB;
+	text-decoration: none;
+}
+
+a:hover
+{
+    color: #2EA1C7;
+}
+
+code
+{
+	background: #FFB8B8;
+	border: #FF8F8F solid 1px;
+	border-radius: 5px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	padding-left: 3px;
+	padding-right: 3px;
+	font-family: "Courier New";
+	font-size: 80%;
+}?
+
+code a
+{
+	color: #4F4F4F;
+}
+
+code a:link
+{
+	color: #4F4F4F;
+}
+
+code a:hover
+{
+	color: #4F4F4F;
+}
+
+.copyright
+{
+	text-align: center;
+	font-size: 77%;
+}
